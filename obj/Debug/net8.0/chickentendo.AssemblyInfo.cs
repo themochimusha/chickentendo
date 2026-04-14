@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chickentendo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cc811a59bb2e0f5af140f7d21a5e5048a8d8f33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b57e28cd4a890b5ba1356f1322e2b7dab728553")]
 [assembly: System.Reflection.AssemblyProductAttribute("chickentendo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chickentendo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
